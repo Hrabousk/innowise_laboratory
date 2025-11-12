@@ -1,0 +1,10 @@
+[project]
+name = "innowise-project"
+version = "0.1.0"
+description = "Innowise laboratory project"
+
+dependencies = ["colorama==0.4.6"]
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
