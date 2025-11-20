@@ -1,6 +1,4 @@
-from datetime import datetime #libraries
-
-CURRENT_YEAR = datetime.now().year #constants
+CURRENT_YEAR = 2025 #constants
 MAX_HUMAN_AGE = 150 # let's assume the theoretical limit of the human lifespan is 150 years
 
 def name_input():
